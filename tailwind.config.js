@@ -6,7 +6,16 @@ export default {
     "./resources/**/*.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'logo-bg': "url('./public/gambar/background logo.png')",
+    },
+      colors: {
+        'cl-pale pink' : '#FFCDEA',
+        'cl-pink' : '#FB9AD1',
+        'cl-purplePale' : '#FEB7F3',
+    },
+    },
   },
   plugins: [],
 }
