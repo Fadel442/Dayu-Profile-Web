@@ -13,6 +13,7 @@ export default {
       colors: {
         'cl-pale pink' : '#FFCDEA',
         'cl-pink' : '#FB9AD1',
+        'cl-purplePale' : '#FEB7F3',
     },
     },
   },
